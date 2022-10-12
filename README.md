@@ -1,35 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Knackie
-KIET7UKE /
-Hacktoberfest-2K22
-Public
-
-Code
-Issues 11
-Pull requests 4
-Actions
-Projects
-Security
-
-    Insights
-
-Hacktoberfest-2K22/README.md
-@KIET7UKE
-KIET7UKE Update README.md
-Latest commit 8de8de5 4 days ago
-History
-5 contributors
-@KIET7UKE
-@Chaitanya1512
-@punyakrit
-@Alve2000
-@gabrielsozinho
-156 lines (105 sloc) 6.16 KB
 <div align=center>
 
 # Hacktoberfest Swag <!-- current year start -->2022<!-- current year end -->
@@ -65,6 +33,7 @@ lets you have made only 4 pull request to different projects
 but one project is excluded from hacktoberfest event then your pull request will not be count and
 then you have remains 3 valid pull request if these projects is not excluded.
 if you fail to make 4 pull request then you cant get swags or t-shirts.
+
 i will recommend you make pull request to your own repo which is very very safest side for you..
 keep in mind that repo has hacktoberfest topic..
 '''
@@ -89,6 +58,7 @@ keep in mind that repo has hacktoberfest topic..
 
 ```
 git clone https://github.com/KIET7UKE/Hacktoberfest-2K22
+
 ```
 - Navigate to project directory.
 ```
@@ -184,20 +154,3 @@ This project is licensed under the [**MIT license**](https://github.com/KIET7UKE
 <a href="https://github.com/KIET7UKE/Hacktoberfest-2K22/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=KIET7UKE/Hacktoberfest-2K22&max=500" alt="Contributors list" width="100%"/>
 </a>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Hacktoberfest-2K22/README.md at main · KIET7UKE/Hacktoberfest-2K22
